@@ -1,4 +1,4 @@
-# winows-commands-cheatSheet
+# windows-commands
 
 - Next tab ctrl+Page down
 - Previous tab ctrl+Page up
