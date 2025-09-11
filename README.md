@@ -1,4 +1,4 @@
-# winows_commands_cheatSheet
+# winows-commands-cheatSheet
 
 - Next tab ctrl+Page down
 - Previous tab ctrl+Page up
